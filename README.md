@@ -8,7 +8,7 @@ ChatGPT Sidebar is a Firefox extension that integrates the OpenAI's ChatGPT into
 
 - Easy-to-use ChatGPT integration directly in your browser
 - Sidebar access for quick and convenient conversation with ChatGPT
-- Works on any website`
+- Works on any website
 - Minimal permission usage (only network access to `https://chat.openai.com/*`)
 
 ## Installation
