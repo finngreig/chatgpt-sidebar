@@ -32,4 +32,4 @@ If you have suggestions for improving this extension or want to report a bug, pl
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](LICENSE.txt).
