@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "ChatGPT Sidebar",
+  "version": "1.0",
+  "description": "Integrates ChatGPT into a Firefox sidebar.",
+  "icons": {
+    "96": "chatgpt_sidebar_96.png"
+  },
+  "permissions": [
+    "https://chat.openai.com/*"
+  ],
+  "sidebar_action": {
+    "default_icon": "chatgpt_sidebar_96.png",
+    "default_title": "ChatGPT",
+    "default_panel": "sidebar.html"
+  }
+}
